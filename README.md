@@ -1,8 +1,14 @@
-# React + Vite
+<h1>3D Apple iPhone 15 Website :apple:</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Recreated Apple website](pictures/website.png)
 
-Currently, two official plugins are available:
+Recreated by using:
+<ul>
+  <li>Three.js</li>
+  <li>GSAP (GreenSock Animation Platform)</li>
+  <li>React</li>
+</ul>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h1>Credit</h1>
+This project is not an original creation. It was developed following the tutorial provided by JavaScript Mastery on YouTube.
+<br>Video link: https://youtu.be/kRQbRAJ4-Fs?si=hTDil06Sik61A8iQ
